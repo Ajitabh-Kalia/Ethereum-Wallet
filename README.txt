@@ -1,11 +1,6 @@
-REMIX DEFAULT WORKSPACE
+>>This is a simple implementation of what I have learned in the last couple of weeks.
 
-Remix default workspace is present when:
-i. Remix loads for the very first time 
-ii. A new workspace is created with 'Default' template
-iii. There are no files existing in the File Explorer
-
-This workspace contains 3 directories:
+This workspace contains 2 directories:
 
 1. 'contracts': This contains the smart contracts.
 2. 'scripts': Contains four typescript files to deploy a contract. It is explained below.
